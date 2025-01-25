@@ -19,4 +19,4 @@ Please list your instructors and mentors below!
 
 | Time                | Topic                     | Presenter        |
 | :---:               |    :----:                 |    :---:         |
-| 09:00 AM - 09:30 AM | Welcome/Introduction      | Instructor Name      |
+| 09:00 AM - 09:30 AM | Welcome/Introduction      | Instructor Name      
